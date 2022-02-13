@@ -21,7 +21,7 @@ body {
     position: absolute;
     z-index: 2;
     color: #eee;
-    font-size: 5rem;
+    font-size: 3rem;
     transition: color 1s ease-in-out;
     text-align: center;
     display: flex;
